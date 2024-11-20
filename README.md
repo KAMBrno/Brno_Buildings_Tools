@@ -18,7 +18,7 @@
 
 # Instruction - preprocessing
 
-1. If you don't have it, install <a target="blank" href="https://www.blender.org/">Blender</a> version 4.0.0 and higher
+1. If you don't have it, install <a target="blank" href="https://www.blender.org/">Blender</a> version 4.0.0 or higher
 2. Download 3D data in ".obj" format from <a target="blank" href="https://webmaps.kambrno.cz/DTM_and_3d_buildings_download/">download app</a>
 
 <img src="img/download_app.png" alt="">
